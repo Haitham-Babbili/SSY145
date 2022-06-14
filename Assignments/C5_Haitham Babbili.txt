@@ -1,0 +1,20 @@
+
+
+
+\question Which of the following is/are true about 5G bandwidth?
+
+\begin{choices}
+
+  \ correctchoice carrier band width up to 400MHz.
+	% MOTIVATION : Gothenburg is the second biggest city in Sweden but not the capital
+
+  \correctchoice In 5G number of carrier aggregate is up to 16
+	% MOTIVATION : Copenhagen is capital of Denmark
+
+  \ choice Bandwidth for one frame is up to 120KHz
+	% MOTIVATION : Bandwidth for one subframe is up to 120KHz
+
+  \ correctchoice A UE can't support less than the carrier BW
+	% MOTIVATION : A UE can support less than the carrier BW
+
+\end{choices}

@@ -1,0 +1,20 @@
+
+
+
+\question according to Basic Principles of Wireless Networks lecture Which of the following is/are a Issues of a Multicarrier Modulation?
+
+\begin{choices}
+
+  \choice Requires reliable feedback channel and accurate channel estimation
+	% MOTIVATION : Adaptive Modulation requires reliable feedback channel and accurate channel estimation
+
+  \correctchoice Large bandwidth penalty 
+	% MOTIVATION : Since the subcarriers can’t have perfectly rectangular pulse shapes and still be time-limited.
+
+  \correctchoice Expensive
+	% MOTIVATION : Very high quality low pass filters will be required to maintain the orthogonality of the subcarriers at the receiver.
+
+  \choice Total data rate is changed for N subcarriers with rate R/N.
+	% MOTIVATION : Total data rate is unchanged for N subcarriers with rate R/N. 
+
+\end{choices}

@@ -1,0 +1,20 @@
+
+
+
+\question What is/are true about low earth orbit?
+
+\begin{choices}
+
+  \choice Medium data quantities / low data rate
+	% MOTIVATION : Deep space orbit
+
+  \correctchoice Large data quantities / high data rate
+	% MOTIVATION : 
+
+  \correctchoice Small coverage area / short connection time
+	% MOTIVATION : 
+
+  \choice Large coverage area / long connection time
+	% MOTIVATION : Deep space orbit
+
+\end{choices}

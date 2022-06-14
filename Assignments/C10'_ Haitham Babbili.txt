@@ -1,0 +1,20 @@
+
+
+
+\question Which of the following is/are true about working in groups?
+
+\begin{choices}
+
+  \choice Make sure that at lest one of your team members know the plan
+	% MOTIVATION : Make sure that all team members know the plan
+
+  \correctchoice Each group member should have clearly defined tasks
+	% MOTIVATION : 
+
+  \correctchoice
+	% MOTIVATION : Aim for each person to speak for similar spans of time
+
+  \choice The first speaker should introduce only himself 
+	% MOTIVATION : The first speaker should introduce everyone in the group
+
+\end{choices}

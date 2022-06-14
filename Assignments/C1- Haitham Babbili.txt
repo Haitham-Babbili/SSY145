@@ -1,0 +1,80 @@
+
+\question Which of the following is/are a correct answer for using ”THAT”?
+
+\begin{choices}
+
+  \choice When you are adding helpful additional material, and use commas
+	% MOTIVATION : This is for  Which use
+
+  \correctchoice When you are including essential material, and do not use commas
+	% MOTIVATION :
+
+  \choice When you are including essential material, and use commas
+	% MOTIVATION : the commas used with that 
+
+  \choice When you are adding helpful additional material, and do not use commas
+	% MOTIVATION : first part for ”which” choice and second part for ”THAT”
+
+\end{choices}
+
+
+\question Which of the following is/are a correct for Abstract?
+
+\begin{choices}
+
+  \choice Should be written before the paper was completed
+	% MOTIVATION : the paper will change depending in abstract not chronology 
+
+  \correctchoice Should be written when the paper is completed
+	% MOTIVATION :
+
+  \ correctchoice Provide a short and full overview of report
+	% MOTIVATION : avoids long text in paper 
+
+  \choice General introduction of the topic with benefits and function 
+	% MOTIVATION : This is in introduction section
+
+\end{choices}
+
+
+\question Which of the following is/are a correct for Adverbial?
+
+\begin{choices}
+
+  \choice Divide a dependent clause from an independent one
+	% MOTIVATION : Commas divide a dependent clause from an independent one 
+
+  \correctchoice Dependent phrases or words that describe how, when, or where
+some action is done.
+	% MOTIVATION :
+
+  \ correctchoice Adverbial won’t change the subject-verb order in English
+	% MOTIVATION :
+
+  \choice Non of the above
+	% MOTIVATION : 
+
+\end{choices}
+
+
+
+\question Which of the following statement for the USE REFERENCES is(are)
+false??
+
+\begin{choices}
+
+  \choice Provide expert information/knowledge
+	% MOTIVATION : 
+
+  \choice Keep you (and your readers) up to date on the latest developments in the
+field
+	% MOTIVATION :
+
+  \ choice Give your readers high-quality information and thereby increase their trust in
+you
+	% MOTIVATION :
+
+  \ correctchoice non of the above
+	% MOTIVATION : 
+
+\end{choices}

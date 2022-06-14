@@ -1,0 +1,20 @@
+
+
+
+\question What is/are Slicing Networks benefits?
+
+\begin{choices}
+
+  \choice Develop open APIs
+	% MOTIVATION : 
+
+  \correctchoice Scalability
+	% MOTIVATION : 
+
+  \correctchoiceAgility
+	% MOTIVATION : 
+
+  \ correctchoice Flexibility
+	% MOTIVATION : 
+
+\end{choices}

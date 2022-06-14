@@ -1,0 +1,20 @@
+
+
+
+\question Which of the following is/are about farfield measurement ranges?
+
+\begin{choices}
+
+  \choice Vector Network Analyzer often used as validation instrument
+	% MOTIVATION :  Vector Network Analyzer often used as test instrument
+
+  \correctchoice A planar wave is created by simply placing DUT far from measurement antenna
+	% MOTIVATION : 
+
+  \correctchoice DUT antenna is rotated to sample pattern in different directions of sphere
+	% MOTIVATION : 
+
+  \choice For wireless devices mainly performed in an reverberation chambers
+	% MOTIVATION : For wireless devices mainly performed in an anechoic chamber
+
+\end{choices}

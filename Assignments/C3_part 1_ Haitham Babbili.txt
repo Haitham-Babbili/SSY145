@@ -1,0 +1,20 @@
+
+
+\question Which of the following is/are true about licence spectrum ?
+
+\begin{choices}
+
+
+  \correctchoice Exclusive right to a certain frequency range
+	% MOTIVATION : Copenhagen is capital of Denmark
+
+  \correctchoice Control of the interference situation
+	% MOTIVATION : Stockholm is capital of of Sweden
+
+  \choice Typically associated with a no license cost
+	% MOTIVATION : Typically associated with a license cost, while unlicensed has no license cost
+
+  \choice Relatively low output power and short range of coverage 
+	% MOTIVATION : unlicensed spectrum has relatively low output power and short range of coverage 
+
+\end{choices}

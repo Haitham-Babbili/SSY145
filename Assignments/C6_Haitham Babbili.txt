@@ -1,0 +1,20 @@
+
+
+
+\question Which of the following is/are a true about  Vulnerable Road User Protection?
+
+\begin{choices}
+
+  \correctchoice Pedestrian-UEs and CAR V-UE send out specific waveforms to infrastructure
+	% MOTIVATION : 
+
+  \correctchoice Base stations receive it, and the location server triangulates the positions
+	% MOTIVATION : 
+
+  \correctchoice Potentially triggering warnings via Alert message to Car
+	% MOTIVATION : 
+
+  \choice Connected vehicles make room for an entering vehicle
+	% MOTIVATION : Lane Merge Coordination assistance to other vehicle 
+
+\end{choices}

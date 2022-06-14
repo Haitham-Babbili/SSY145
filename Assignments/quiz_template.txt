@@ -1,0 +1,20 @@
+
+
+
+\question Which of the following is/are a capital of a country?
+
+\begin{choices}
+
+  \choice Gothenburg
+	% MOTIVATION : Gothenburg is the second biggest city in Sweden but not the capital
+
+  \correctchoice Copenhagen
+	% MOTIVATION : Copenhagen is capital of Denmark
+
+  \correctchoice Stockholm
+	% MOTIVATION : Stockholm is capital of of Sweden
+
+  \choice Karlstad
+	% MOTIVATION : Karlstad is a big city in Sweden but not the capital
+
+\end{choices}

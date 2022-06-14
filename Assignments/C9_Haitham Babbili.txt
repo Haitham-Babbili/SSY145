@@ -1,0 +1,20 @@
+
+
+
+\question Which security  attributes can some standers and publications add to the networks?
+
+\begin{choices}
+
+  \choice correctchoice
+	% MOTIVATION : 
+
+  \correctchoice Accountability and Traceabilityn
+	% MOTIVATION : 
+
+  \correctchoice Authenticity (or Non-repudiation)
+	% MOTIVATION : 
+
+  \choice None of the choices.
+	% MOTIVATION : 
+
+\end{choices}

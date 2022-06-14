@@ -1,0 +1,21 @@
+
+
+
+\question What is/are true about coordinated scheduling and/or beamforming?
+
+\begin{choices}
+
+
+  \correctchoice Data to a single user is instantaneously transmitted from oneof the transmission points.
+	% MOTIVATION : 
+
+  \choice Data to a single user is simultaneously transmitted from multiple transmission points
+	% MOTIVATION : Coordinated joint processing/transmission
+
+  \correctchoice Scheduling decisions are coordinated to control e.g. the interference generated in a set of coordinated cells.
+	% MOTIVATION : 
+
+  \choice It can improve the outage capacity and to smoothen the capacity over the cell areas.
+	% MOTIVATION : Coordinated multi-cell transmission and reception has the potential to improve the outage capacity and to smoothen the capacity over the cell areas.
+
+\end{choices}

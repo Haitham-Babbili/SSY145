@@ -1,0 +1,20 @@
+
+
+
+\question What is/are the knowledge of the MIMO channel matrix provides?
+
+\begin{choices}
+
+  \choice Signal reconstruction at Rx
+	% MOTIVATION :
+
+  \ choice Precoding at Tx
+	% MOTIVATION : 
+
+  \ choice Analysis of MIMO channel (performance)
+	% MOTIVATION : 
+
+  \ correctchoice All of the above
+	% MOTIVATION : 
+
+\end{choices}
