@@ -1,0 +1,183 @@
+
+
+
+
+
+
+
+ARTICLES
+
+
+===================================================================================================================================================
+
+1. Give two main functions/requirements of a virtual network in 5G network slicing.
+
+To realize the requirement of programmability and resource sharing needed, network function virtualization (NFV) and software defined networking (SDN) is used.
+
+SDN is the network configuration, which unlike traditional management, it is dynamic and uses cloud computing to improve network performance
+
+NFV is instead more connected to the actual physical infrastructure’s functions and is the virtualization of TCP protocols, virtual private networks and hardware communication. This makes it easier to change and allocate resources for slices as changes can be done by the operators rather than consumers
+
+
+====================================================================================================================================================
+2. Explain in your own words what a network slice is
+
+Network slicing is a network architecture which is applied in 5G systems by dividing the physical network infrastructure into multiple logical isolated network parts, so called slices. the 5G network divides the network resources and functions to form network slices according to the requirements from customers. Network slicing is therefore one of the key technologies in achieving flexible and scalable networks.Therefore, it is necessary to implement a flexible, efficient, low cost, reliable and low latency technique, which is network slicing.
+
+=======================================================================================================================================================
+3
+What are the main benefits of network slicing and why?
+
+5G combined with network slicing permits business users to customize the network capabilities based on their specific requirements that comply with service level agreement with mobile operators.
+Therefore, it is necessary to implement a flexible, efficient, low cost, reliable and low latency technique, which is network slicing. After implementation, network slicing will be beneficial for both service providers and customers
+
+Due to the benefits of network slicing, it is widely applicable for various business, such as: industry automation, massive IoT, enterprise network, and healthcare
+
+benefits of network slicing; flexibility and multi-tenancy
+
+The development of automotive systems will benefit of 5G network slicing since it enables extended usage and coverage while reducing costs
+
+By dividing the physical network into logical slices, different performance in terms of scalability and flexibility of different slices can be achieved.
+
+
+
+=====================================================================
+4. Within the automotive sector many areas benefit from network slicing. Give some examples and explain why.
+
+Firstly, by sending data between different vehicles and other structures in the traffic environment, accidents can be avoided (by sharing positions and observations etc) and efficiency increased (by e.g. platooning). The key is that the received information needs to be up to date, therefore low latency is very important, especially for autonomous driving. Coverage and reliability will also become very important for autonomous cars’ navigation systems, since they need to be driverless and reliable everywhere (rural areas) but also to work in dense areas (city center). Infotainment services are not as important as safety features, which can tolerate latency but requires high data rates. However, the relevance of this area becomes more important as media consumption is likely to increase proportionally with autonomous vehicles.
+
+
+=======================================================================================================================================================
+
+5. AR/VR requests high capacity networks to achieve high density computing. What are the main technologies to realize this feature?
+
+Resolution/format requirement, speed requirement and latency requirement
+
+To fulfill the performance requirements of synchronization, the idea of network slice designing should conclude the consideration of network condition (e.g., interference), frame rates and bandwidth of videos. Therefore, these applications depend on deterministic traffic. Meanwhile, network slicing helps to deliver the packets and tries to minimize the inter-packet delay. To further achieve the requirements of synchronization, a delay tolerance is proposed. This means that a certain traffic flow should reach the end-user within a certain latency. The level of delay tolerance can be flexible due to different application scenarios which exemplifies the flexibility of network slicing.
+
+
+Both AR and VR rely on video computing and processing. Therefore, AR/VR technology requires high density computing to deal with AR/VR video processing. To meet these requirements, the transport network can be divided along a spatial dimension, which is called spatial division multiplexing (SDM). Resources will then be assigned to different services according to the difference in space. Also, the resource isolation must be realized at the same time, which is known as slice isolation technique.
+
+slice isolation is necessary to prevent depleting slice resources
+
+
+
+
+
+
+=======================================================================================================================================================
+
+6. Re-farming of 4G LTE bands, in order to improve the coverage of 5G NR is not considered
+as a good solution. Please briefly explain why.
+
+Re-farming low band carriers from 4G without a corresponding increase in 5G devices penetration might lead to congestion of the remaining 4G LTE carriers, degrading indoor coverage for LTE users who still represent the majority of the subscriber base. This co-existence between 5G and 4G LTE can thus be considered as a flexible re-farming solution.
+
+=======================================================================================================================================================
+
+7. Give two key categories of services that 5G NR supports and briefly explain them.
+
+**eMBB/xMBB is for high data rate services. This means there is a need for high bandwidth and high modulation orders
+**mMTC is for the interconnection of high volume of IoT devices.
+**URLLC focuses on latency-sensitive and highly reliable services.
+
+=======================================================================================================================================================
+
+8.Give two technical solutions and explain in your own words why they make mobile networks more energy efficient or energy sustainable
+
+The carbon footprint and energy cost are the main reasons why mobile networks need to be more energy-efficient. The development of many technologies (like massive MIMO) and network management techniques (like sleep scheduling) can contribute to achieving this goal even if there are still unknown about how these technologies can work together.
+
+A dense network with a high data rate should deploy more micro-sites to be energy efficient.Also, picocells and femtocells installed in buildings are helpful to avoid penetration loss. The use of relays is also a way to design EE networks. Using packet scheduling and resource allocations networks with relays can improve the EE. Network coding technology helps to implement cooperative communication and reduce the number of transmissions and therefore, energy consumption
+
+Sleep scheduling
+Base stations do not need to be active all the time, especially when the traffic is low in their coverage area. A possible solution to address this problem is sleep schedules. This technique consists of dynamically turning on and off individual base stations to meet the traffic variation in the network. Minimizing the number of active base stations saves a significant amount of energy.
+
+Renewable energies: using solar and wind energy hybrids systems
+
+Heterogeneous Networks: bring base stations closer to the users, reduce transmission power, increase efficiency. However, finding the best architectures for
+heterogeneous networks is challenging.
+.
+D2D Communications: base stations can go into sleep-mode
+
+massive MIMO: Muting antennas is also a solution for this problem: muting an antenna in no-load or light load conditions can save about 50% of the power. Using this technique can reduce energy cost-effectively without altering the system performance
+
+
+
+=====
+9. Briefly describe one location information which could be used for improving the performance of a communication system.
+
+The location information of the users are an important aspect of this. The problem however is that all devices are not equipped with GPS sensors since it is both a cost in hardware, power consumption and precision, which increases the need for other localisation strategies. If more devices is becoming connected the information of these devices can also serve basically as sensors and creates a large wireless sensor network (WSN).
+
+Improvement in localisation strategy will yield not only more reliable information but also an increase in the capacity of the network.
+
+
+When the location is known this information could be used to improve the performance of the communication. This information can be used for example to improve the estimation of the wireless channel and decrease the time when communicating which leads to a larger data rate. This could be applicable in for example communication in vehicles where a fast and reliable localisation and communication is crucial. Another application is to use the location information to improve the routing in a cluster of nodes to save time and to reduce the complexity.
+
+
+Channel estimation: A possible way to improve wireless communication is to utilize the locations of the users, in order to get an better estimation of the channel.
+Prediction demand
+
+================================================================================================================================================
+10. Name two approaches and briefly describe how they can improve the energy efficiency of a M2M network mentioned in the report "Energy efficiency challenges in home capillary M2M networks".
+
+CSMA/CA, sleep/wake-up management and energy harvesting.
+carrier sense multiple access with collision avoidance (CSMA/CA) protocol, sleep/wake-up management and energy harvesting. These are three concepts among several in which the energy efficiency
+
+For a contention-based random access protocol such as CSMA/CA, the re-transmissions after a collision are major contributors of power consumption during channel access. In a large scale network with a large number of M2M devices, a better coordination scheme is needed to overcome congestion, in order to improve the energy efficiency of the network.
+
+The sleep mode aims to reduce the idle listening of the device. During idle listening, the radio transceiver is switched on, and the power consumption continues. Since it is quite often that M2M devices collect and transfer data in a periodic manner, the duty cycle can be manipulated to improve energy efficiency. There is a trade-off between the amount of energy saved and the service availability of the device when reducing the time the device is idle and listening to the channel
+
+
+The idea of energy harvesting, also known as energy scavenging, is to convert energy from the surroundings to electric energy that can prolong the lifetime of the devices. The surrounding sources of energy harvesting can be categorized in two main groups: natural sources such as solar and wind energy, and artificial sources such as human motion and vibrations from operating machines
+
+================================================================================================================================================
+11. What is a key implementation challenge with reconfigurable intelligent surfaces (RIS)?
+
+Performing channel estimations to optimize the SNR in the different propagation environments. Having a dynamic changing environment makes this a challenge. Estimation of the channel is considered necessary to optimize th phase-shifts caused by the surface. It is mentioned that this can be done by implementing some sort of feedback solution with sensors integrated in the surface.
+
+
+
+=======================================================================================================================================================
+12. Mention at least one advantage and one disadvantage of High Altitude Platforms (HAPs) in comparison with terrestrial systems, and briefly explain them.
+The coverage of a HAP can be up to a diameter of 500 km, compared with 30 km of a base station on earth
+HAPS good in times of natural disasters, coverage of larger rural areas. It can also be incorporated into the existing telecommunication network and
+contribute with high speed wireless communication.
+
+HAPS Aeroplanes: The advantages of this solution is the fast and easy platform deployment and the ability to move from one service area to another. The main
+challenge with this solution is likely to be the power balance
+
+***The benefit of the terrestrial systems is their low latency and their flexibility, where deployment and upgrades can be done easily.
+
+
+13. Explain the advantages and disadvantages of High Altitude Platforms (HAPs) in comparison with the satellite system.
+
+HAPs are better than satellites, because they need less power, but the same applies to terrestrial radio towers. Research carried out by SkyTower showed that 1W transmit power from a HAP has the same result as 1000 Watts from a comparable terrestrial system
+
+HAPs have a special advantage here compared to satellites that do not stay at a fixed relative position to earth. Medium Earth Orbit (MEO) and LEO are always in motion, therefore it is difficult to observe a certain area or object on the ground
+
+HAPs are also applicable for intelligence, surveillance and reconaissance missions, like missile warning systems. In the civilian domain they could be used for traffic control on land, sea and air
+
+The accuracy of GPS can be improved with differential correction through HAPs [1]. This works by adding the information from an object with a well
+known position (in this situation the HAP postition) to the position information gathered from the GPS satellites
+
+HAPS good in times of natural disasters, coverage of larger rural areas. It can also be incorporated into the existing telecommunication network and
+contribute with high speed wireless communication.
+
+***The satellite systems on the other hand have the advantage of large coverage area.
+   The electric energy for the payload it carries, usually supported by solar, is a challenge. It cannot stay at a given altitude more than the satellites
+   Therefore HAPs need larger and heavier energy storage systems than satellites do.
+
+=======================================================================================================================================================
+14. How is an individual user equipment (UE) able to know that resources are occupied or available in PC5?
+When a UE has to transmit data, it has to deliver SCI first. Because SCI is used to control data transmission among UEs that use the sidelink.
+Modulations can be either Quadrature Phase-Shift Keying (QPSK) or 16-Quadrature Amplitude Modulation (QAM) for transmission data while only QPSK is used for transmission SCI.
+
+Sidelink Control Information (SCI)
+By receiving SCI due to the fact that SCI contains information about reservations and their intervals. Thus UEs can transmit data without collisions.
+
+
+15. In regard to what aspect is PC5 better than DSRC?
+
+Both technologies are ad-hoc type communications and use 5.9GHz for their frequencies. However, PC5 is more recent technology that is used in C-V2X.
+PC5 provides a higher rate of warning messages than DSRC
+PC5 will reduce the expected amount of road traffic fatalities more effectively than DSRC will
+However, it is predicted that adopting PC5 will be able to raise the rate of successful warning message delivery in certain scenarios thereby creating significant decreases in the number of road traffic fatalities and serious injuries in comparison to DSRC from 2018 to 2040.

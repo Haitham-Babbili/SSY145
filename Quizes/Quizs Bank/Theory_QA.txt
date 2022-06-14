@@ -1,0 +1,73 @@
+
+====
+
+=====
+9. Briefly describe one location information which could be used for improving the performance of a communication system.
+
+
+
+================================================================================================================================================
+10. Name two approaches and briefly describe how they can improve the energy efficiency of a M2M network mentioned in the report "Energy efficiency challenges in home capillary M2M networks".
+
+CSMA/CA, sleep/wake-up management and energy harvesting.
+carrier sense multiple access with collision avoidance (CSMA/CA) protocol, sleep/wake-up management and energy harvesting. These are three concepts among several in which the energy efficiency
+
+For a contention-based random access protocol such as CSMA/CA, the re-transmissions after a collision are major contributors of power consumption during channel access. In a large scale network with a large number of M2M devices, a better coordination scheme is needed to overcome congestion, in order to improve the energy efficiency of the network.
+
+The sleep mode aims to reduce the idle listening of the device. During idle listening, the radio transceiver is switched on, and the power consumption continues. Since it is quite often that M2M devices collect and transfer data in a periodic manner, the duty cycle can be manipulated to improve energy efficiency. There is a trade-off between the amount of energy saved and the service availability of the device when reducing the time the device is idle and listening to the channel
+
+
+The idea of energy harvesting, also known as energy scavenging, is to convert energy from the surroundings to electric energy that can prolong the lifetime of the devices. The surrounding sources of energy harvesting can be categorized in two main groups: natural sources such as solar and wind energy, and artificial sources such as human motion and vibrations from operating machines
+
+================================================================================================================================================
+11. What is a key implementation challenge with reconfigurable intelligent surfaces (RIS)?
+
+Performing channel estimations to optimize the SNR in the different propagation environments. Having a dynamic changing environment makes this a challenge. Estimation of the channel is considered necessary to optimize th phase-shifts caused by the surface. It is mentioned that this can be done by implementing some sort of feedback solution with sensors integrated in the surface.
+
+
+
+=======================================================================================================================================================
+12. Mention at least one advantage and one disadvantage of High Altitude Platforms (HAPs) in comparison with terrestrial systems, and briefly explain them.
+The coverage of a HAP can be up to a diameter of 500 km, compared with 30 km of a base station on earth
+HAPS good in times of natural disasters, coverage of larger rural areas. It can also be incorporated into the existing telecommunication network and
+contribute with high speed wireless communication.
+
+HAPS Aeroplanes: The advantages of this solution is the fast and easy platform deployment and the ability to move from one service area to another. The main
+challenge with this solution is likely to be the power balance
+
+***The benefit of the terrestrial systems is their low latency and their flexibility, where deployment and upgrades can be done easily.
+
+
+13. Explain the advantages and disadvantages of High Altitude Platforms (HAPs) in comparison with the satellite system.
+
+HAPs are better than satellites, because they need less power, but the same applies to terrestrial radio towers. Research carried out by SkyTower showed that 1W transmit power from a HAP has the same result as 1000 Watts from a comparable terrestrial system
+
+HAPs have a special advantage here compared to satellites that do not stay at a fixed relative position to earth. Medium Earth Orbit (MEO) and LEO are always in motion, therefore it is difficult to observe a certain area or object on the ground
+
+HAPs are also applicable for intelligence, surveillance and reconaissance missions, like missile warning systems. In the civilian domain they could be used for traffic control on land, sea and air
+
+The accuracy of GPS can be improved with differential correction through HAPs [1]. This works by adding the information from an object with a well
+known position (in this situation the HAP postition) to the position information gathered from the GPS satellites
+
+HAPS good in times of natural disasters, coverage of larger rural areas. It can also be incorporated into the existing telecommunication network and
+contribute with high speed wireless communication.
+
+***The satellite systems on the other hand have the advantage of large coverage area.
+   The electric energy for the payload it carries, usually supported by solar, is a challenge. It cannot stay at a given altitude more than the satellites
+   Therefore HAPs need larger and heavier energy storage systems than satellites do.
+
+=======================================================================================================================================================
+14. How is an individual user equipment (UE) able to know that resources are occupied or available in PC5?
+When a UE has to transmit data, it has to deliver SCI first. Because SCI is used to control data transmission among UEs that use the sidelink.
+Modulations can be either Quadrature Phase-Shift Keying (QPSK) or 16-Quadrature Amplitude Modulation (QAM) for transmission data while only QPSK is used for transmission SCI.
+
+Sidelink Control Information (SCI)
+By receiving SCI due to the fact that SCI contains information about reservations and their intervals. Thus UEs can transmit data without collisions.
+
+
+15. In regard to what aspect is PC5 better than DSRC?
+
+Both technologies are ad-hoc type communications and use 5.9GHz for their frequencies. However, PC5 is more recent technology that is used in C-V2X.
+PC5 provides a higher rate of warning messages than DSRC
+PC5 will reduce the expected amount of road traffic fatalities more effectively than DSRC will
+However, it is predicted that adopting PC5 will be able to raise the rate of successful warning message delivery in certain scenarios thereby creating significant decreases in the number of road traffic fatalities and serious injuries in comparison to DSRC from 2018 to 2040.
